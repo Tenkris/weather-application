@@ -1,5 +1,5 @@
 # Try Demo 
--> https://tenkris-weather-application-dashboard-tdqzff.streamlit.app/
+->https://tenkris-weather-application-dashboard-tdqzff.streamlit.app/
 
 # Global Weather Conditions Dashboard
 
