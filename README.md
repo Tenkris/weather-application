@@ -1,6 +1,3 @@
-# Try Demo 
-->https://tenkris-weather-application-dashboard-tdqzff.streamlit.app/
-
 # Global Weather Conditions Dashboard
 
 An interactive dashboard built with Streamlit that visualizes global weather conditions using maps, charts, and filterable data tables.
